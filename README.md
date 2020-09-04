@@ -1,0 +1,1 @@
+# Laravel-Env-Scanner
